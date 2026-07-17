@@ -8,7 +8,8 @@ Repositório de estudos práticos sobre consultas SQL, com exercícios organizad
 |---|---|
 | 📄 [1_Realizando Consultas.sql](1_Realizando%20Consultas.sql) | `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`, `Operadores de Comparação`|
 | 📄 [`2_Utilizando operadores lógicos.sql`](2_Utilizando%20operadores%20l%C3%B3gicos.sql)  | `AND`, `OR`, `NOT`, `IN`, `BETWEEN`, `DISTINCT`, `CURDATE`, `LIKE`|
-| 📄 [`3_Entendendo funções de string`](3_Entendendo%20fun%C3%A7%C3%B5es%20de%20string.sql)  | `CONCAT`, `LENGHT`, `SUBSTRING`, `LOWER`, `TRIM`, `REPLACE`, `UPPER`|
+| 📄 [`3_Entendendo funções de string.sql`](3_Entendendo%20fun%C3%A7%C3%B5es%20de%20string.sql)  | `CONCAT`, `LENGHT`, `SUBSTRING`, `LOWER`, `TRIM`, `REPLACE`, `UPPER`|
+| 📄 [`4_Funções de agregação.sql`](4_Funções%20de%20agregação.sql)  | `SUM`, `AVG`, `COUNT`, `MAX`, `MIN`, `GROUP BY`, `HAVING`|
 
 ## Sobre
 
